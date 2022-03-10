@@ -51,3 +51,7 @@ anyone and has been around for generations. One of the reasons that it is most o
 due to the numerous advantages it provides. This method is extremely speedy, easy, readily
 available, and cost effective, causing it to be an attractive option to most researchers.
 SAMPLE SIZE: 52
+
+## Survey Link: 
+
+https://docs.google.com/forms/d/e/1FAIpQLSftpau32sNs-nx5o6YAZJvWLLBi2KPho5AUwqPWghzer2aq3Q/viewform?usp=sf_link
