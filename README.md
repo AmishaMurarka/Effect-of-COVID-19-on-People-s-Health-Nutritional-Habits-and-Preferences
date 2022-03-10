@@ -1,0 +1,2 @@
+# Effect-of-COVID-19-on-People-s-Health-Nutritional-Habits-and-Preferences
+The prevalence of the pandemic has brought about a tidal shift in consumer behaviour globally. A sudden sense of enquiry has seeped into the minds of people. They want to know what they eat, where it comes from, and how it is grown. The focus has shifted towards a natural and holistic way of living. Through this study, we try to understand the effects of COVID-19 on the health / nutritional preferences and habits of Indians.
