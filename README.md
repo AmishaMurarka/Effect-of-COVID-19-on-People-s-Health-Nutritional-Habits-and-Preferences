@@ -55,3 +55,7 @@ SAMPLE SIZE: 52
 ## Survey Link: 
 
 https://docs.google.com/forms/d/e/1FAIpQLSftpau32sNs-nx5o6YAZJvWLLBi2KPho5AUwqPWghzer2aq3Q/viewform?usp=sf_link
+
+## Google Sheets Link:
+
+https://docs.google.com/spreadsheets/d/16WUOTRp-FBFDL3T0HxHuyBJLtavqaqWlj7FScLbKXuY/edit?usp=sharing
