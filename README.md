@@ -65,38 +65,38 @@ SAMPLE SIZE: 52
 
 ## Inferences
 
-# What percent of population think that they live a healthy lifestyle? 
+### What percent of population think that they live a healthy lifestyle? 
 - We can say with 95% confidence that 75% - 94% of the population believe that they live a healthy lifestyle.
 
-# What percent of population gets adequate sleep? [SLEEP]
+### What percent of population gets adequate sleep? [SLEEP]
 - We can say with 95% confidence that 67% - 89% of the population gets adequate sleep.
 - Out of all people who are getting adequate sleep, we can say with 95% Confidence Interval that 39%-69% of Population are those who are now sleeping more or have had no change in their sleep schedule since covid.
 
-# On what percent of population's sleeping pattern did COVID impact? [SLEEP]
+### On what percent of population's sleeping pattern did COVID impact? [SLEEP]
 - We can say with 95% confidence that 30% - 57% of the population's sleep pattern was impacted by covid.
 
-# What is the average count that the population eats outside food in a week? [DIET]
+### What is the average count that the population eats outside food in a week? [DIET]
 - On an average the population eats atleast 2-3 times in a week outside food.
 - We can say with 95% confidence, that people who believe that they eat healthy still eat outside food atleats 1-2 times in a week.
 
-# On what percent of population's diet did COVID impact? [DIET]
+### On what percent of population's diet did COVID impact? [DIET]
 - We can say with 95% confidence that 74% - 94% of the population are eating healthy food.
 
-# What is the average count that the population exercises in a week? [EXERCISE]
+### What is the average count that the population exercises in a week? [EXERCISE]
 - After performing an hypothesis testing, we can say that People exercise less than 5 days in a week.
 
-# What proportion of the population exercise? [EXERCISE]
+### What proportion of the population exercise? [EXERCISE]
 - After analysing the proportion of people who exercise >=1 times in a week, we can say with 95% confidence that 70% - 91% of the population exercise or used to exercise.
 - We can also say with 95% confidence that 43% - 61% of the population is exercising after COVID.
 - Here there is a drop in the proportion of people who are exercising after/since covid and those who used to exercise before covid.
 - On an average, people who used to exercise before but have stopped since COVID, used to exercise 2-4 days in a week.
 
-# On what percent of population, did COVID impact the populations exercise routine? [EXERCISE]
+### On what percent of population, did COVID impact the populations exercise routine? [EXERCISE]
 - We can say with 95% confidence that 7% to 27% of the population who did not exercise before has started exercising since COVID.
 - We can say with 95% confidence that people who started exercising since COVID exercise on a average 4-7 times in a week.
 - We can say with 95% confidence that people who have been exercising since before and after COVID, exercise on a average 4-6 times in a week.
 
-# Is the sample's BMI aligned with expected population BMI based on age group?
+### Is the sample's BMI aligned with expected population BMI based on age group?
 - We can say with 95% confidence that the population consists of individuals who fall in the 'Normal' BMI category and have healthy weight.
 
 ## Survey Link: 
